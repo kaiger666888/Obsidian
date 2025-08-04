@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<componentManifest xmlns="urn:almplus:schema:swcp:componentManifest">
+    <schemaVersion>2</schemaVersion>
+    <subPackage>
+        <guid>PCKG-3BD987AD-3728-4352-B455-4A1466229920</guid>
+        <name>CommonAsr_ComStackLib@Doc_TechRef</name>
+        <version>6.00.01</version>
+    </subPackage>
+    <subPackage>
+        <guid>PCKG-92185D68-357E-463F-A1AE-88B809E4529A</guid>
+        <name>CommonAsr__Common@Doc_TechRef</name>
+        <version>1.03.00</version>
+    </subPackage>
+    <subPackage>
+        <guid>PCKG-A2F3D72D-5FF8-9947-9642-C8315A1DA855</guid>
+        <name>CommonAsr__Common@root</name>
+        <version>4.12.00</version>
+    </subPackage>
+    <subPackage>
+        <guid>PCKG-D611EF4E-0231-4D90-9BFA-74861E339B3D</guid>
+        <name>CommonAsr_ComStackLib@root</name>
+        <version>18.01.00</version>
+    </subPackage>
+</componentManifest>

@@ -1,0 +1,1 @@
+// RTE stub for DiagHandler

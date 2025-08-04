@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "20e974d31fab8c9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d232eadd1b85f4c7",
+        "type": "tabs",
+        "dimension": 80.6949806949807,
+        "children": [
+          {
+            "id": "f8a3bd4613b650be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "信息速查表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "信息速查表"
+            }
+          },
+          {
+            "id": "5d761de2c5ca6255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "信息速查表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "信息速查表"
+            }
+          },
+          {
+            "id": "967fb24b3e8e0562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CI_CD/参考资料.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "参考资料"
+            },
+            "group": "4a5c2b78d0e46ee3"
+          },
+          {
+            "id": "4e39b374c603b222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/职业规划建议.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "职业规划建议"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "c92039153c7cf4e1",
+        "type": "tabs",
+        "dimension": 19.305019305019304,
+        "children": [
+          {
+            "id": "ecc1e40aabb6c3b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CI_CD/参考资料.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "参考资料 的大纲"
+            },
+            "group": "4a5c2b78d0e46ee3"
+          },
+          {
+            "id": "a3b6c136e274f3b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "d45fb4b05a1f763d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f5b7a944f1a8de4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c82780f68dbdddb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7d01613233af67a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a5c28e84bc14fa82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "641d7ec35dea6dcb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "89f64893ba258dbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebc68e1669e9b92e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7e25390ddcdc885",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "a5f99315fc6447da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "e9f08815adaf8738",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b254ffb40ba1283a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "yaml2arxml validation程序设计.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "yaml2arxml validation程序设计 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-importer:Open Importer": false,
+      "image-picker:Open Image Picker": false,
+      "hi-note:HiNote": false,
+      "translate:Open translation view": false
+    }
+  },
+  "active": "d7d01613233af67a",
+  "lastOpenFiles": [
+    "Clippings/职业规划建议.md",
+    "信息速查表.md",
+    "CI_CD/开发 Gerrit Checks 插件的完整指南（基于 Checks API）(ClaudeCode).md",
+    "CI_CD/开发 Gerrit Checks 插件的完整指南（基于 Checks API）(ChatGPT).md",
+    "CI_CD/gerrit_checks_plugin_guide.md",
+    "CI_CD/docker_commands_reference.md",
+    "CI_CD/ubuntu_linux_commands.md",
+    "CI_CD/gerrit_checks_api_summary.md",
+    "CI_CD/http_methods_guide.md",
+    "CI_CD/参考资料.md",
+    "CI_CD/未命名.md",
+    "Ubuntu Demo.md",
+    "Clippings/BSWM管理CAN LIN FlexRay.md",
+    "CI_CD",
+    "Clippings/Moving apps from platform repo to the integration - ART Core System Components - ARTCSC - Confluence 1.md",
+    "未命名.md",
+    "yaml2arxml validation程序设计.md",
+    "Clippings/创作者平台成功因素.md",
+    "Pasted image 20250516140005.png",
+    "Vector_markdown/CBD_ThirdParty_Mcal_Tc3xx_Supply_tresos_26.2_demos_AutoCore_8.7.1-WIN32X86_simple_demo_rte_supplement_SimpleDemo_SysDesc_system_AUTOSAR_Datatypes.arxml.md",
+    "DigitalCommECU_Template/Docs/架构结构图.puml",
+    "DigitalCommECU_Template/Application/DiagHandler/desktop.ini",
+    "DigitalCommECU_Template/Application/ComManager/desktop.ini",
+    "DigitalCommECU_Template/Application/desktop.ini",
+    "DigitalCommECU_Template/Application/DiagHandler/DiagHandler.h",
+    "DigitalCommECU_Template/Application/DiagHandler/DiagHandler.c",
+    "DigitalCommECU_Template/Application/ComManager/ComManager.h",
+    "DigitalCommECU_Template/Application/ComManager/ComManager.c",
+    "DigitalCommECU_Template/Arxml/SWC_Description.arxml",
+    "以太网协议完整笔记.md",
+    "Temp.md",
+    "Clippings/Moving apps from platform repo to the integration - ART Core System Components - ARTCSC - Confluence.md",
+    "EthIf_Enhanced.md",
+    "Vector_markdown/CBD_Components_LdCom_BSWMD_LdCom_bswmd.arxml.md",
+    "Vector_markdown/CBD_DaVinciConfigurator_Core_StandardDefinition_AUTOSAR_MOD_ECUConfigurationParameters_Com.arxml.md",
+    "Vector_markdown/CBD_FBL_DaVinciConfigurator_Core_StandardDefinition_AUTOSAR_MOD_ECUConfigurationParameters_Com.arxml.md",
+    "Vector_markdown/CBD_DaVinciConfigurator_Core_StandardDefinition_AUTOSAR_MOD_ECUConfigurationParameters_LdCom.arxml.md",
+    "销售分析结果.png",
+    "Autosar-2025-04-23-06-51-35.png",
+    "Autosar-2025-04-23-06-50-11.png"
+  ]
+}

@@ -1,0 +1,50 @@
+# AUTOSAR Module - 完整配置文档
+
+*此文档由ARXML文件自动生成，采用层次化结构展示*
+
+**生成时间**: 2025-06-16 14:45:24
+
+## 📑 目录
+
+- [📄 文件信息](#-文件信息)
+- [📦 包结构](#-包结构)
+- [⚙️ 配置信息](#️-配置信息)
+
+## 📄 文件信息
+
+### Schema信息
+- **Schema位置**: `http://autosar.org/schema/r4.0 AUTOSAR_4-2-1.xsd`
+- **命名空间**: `http://autosar.org/schema/r4.0`
+
+## 📦 包结构
+
+此ARXML文件包含 **1** 个包：
+
+### 1. MICROSAR
+
+- **UUID**: `ff55d029-386d-43a2-b3c2-dfef4c7a5e36`
+- **包名称**: `MICROSAR`
+- **包含元素数量**: 2
+
+#### 包含的元素
+
+##### ECUC-MODULE-CONFIGURATION-VALUES 类型元素
+
+1. **Os_Rec**
+2. **Os_Rec_Class1**
+
+## ⚙️ 配置信息
+
+此ARXML文件包含 **2** 个配置：
+
+### 1. Os_Rec
+
+- **UUID**: `cab3347a-7f2e-497c-844d-84c9ecfc3437`
+- **配置名称**: `Os_Rec`
+- **定义引用**: `/MICROSAR/Os`
+
+### 2. Os_Rec_Class1
+
+- **UUID**: `a94c1493-571d-44ff-860d-961a2474ad1c`
+- **配置名称**: `Os_Rec_Class1`
+- **定义引用**: `/MICROSAR/Os`
